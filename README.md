@@ -1,5 +1,7 @@
 # Enterprise RAG Challenge 
 
+**Автор: Косенко Кирилл гр. 25.М81**
+
 Данный репозиторий содержит реализацию Retrieval-Augmented Generation системы,
 разработанной в рамках задания **Enterprise RAG Challenge**.
 
